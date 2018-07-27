@@ -21,6 +21,23 @@ significantly complicates usage of this project's approach to identifying zones.
 There are also shapefile and lookup table of NYC regions and boroughs on this page:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
+### Project structure
+I will stick to original structure as it suggested in the course at Coursera, but will probably remove some intermediate stages to avoid repeating myself
+
+__Week 1__: Warming up =) Preparing data, cleaning and aggregation 
+
+__Week 2__: Data visualization on geographical map, both static and interactive (pan, zoom, hover tool)
+
+__Week 3__: Constructing regression features and fitting ARIMA model for one 
+
+__Week 4__: Predicting trips in 102 of 2500 cells using almost same steps as in __Week 3__. 
+
+__Week 5__: A step towards enrichment model using other features: both present in raw data and engineered 
+
+__Week 6__: Finalizing model enrichment
+
+__Week 7__: Developing an user-friendly  product to visualise prediction results
+
 ### Disclaimer
 The project is not finished yet and there may be some comments in Russian and some simplifications, skipped parts and contractions 
 but I will fix these things - eventually.
