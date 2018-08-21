@@ -1,5 +1,5 @@
 # NYC Taxi trip prediction
-This is my Capstone project for "Machine learning and Data analsis" Specialization at Coursera. 
+This is my Capstone project for "Machine learning and Data analysis" Specialization at Coursera. 
 The project is based on data from NYC Trip & Limousine Comission (TLC). Data represented by montly informaton of taxi trips in New York 
 and contains GPS coordinates and time of pickups and drop-offs, fare amounts, number of passengers and other information. Full data 
 decription you can find here: http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf.
